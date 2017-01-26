@@ -1,0 +1,21 @@
+{
+  "name": "actility-energy-client",
+  "description": "Contract Information",
+  "main": "",
+  "authors": [
+    "ZaimSa <salima.zaim.ga@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.5",
+    "components-font-awesome": "^4.6.3"
+  }
+}

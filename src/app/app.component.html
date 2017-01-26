@@ -1,0 +1,8 @@
+<main>
+  <h1>PARENTCOMPONENT</h1>
+  <div>Value : {{value}}</div>
+  <div style="background-color:beige">
+    <h4>CHILDCOMPONENT</h4>
+    <child (sendValue)="getValue($event)"></child>
+  </div>
+</main>
